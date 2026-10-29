@@ -264,7 +264,7 @@ while ($row = $messagesResult->fetch_assoc()) {
                     <input type="hidden" name='userRole' value="<?php echo htmlspecialchars($role) ?>" />
                 </form>
                 <footer style="width: 100%; position: fixed; bottom: 0; background-color: gray; color: white; text-align: left; padding-left: 10px;">
-                    <p>Copyright &copy; 2018 <span class="bold">Final Year Project</span>. All rights reserved.</p>
+                    <p>Copyright &copy; 2025 <span class="bold">Final Year Project</span>. All rights reserved.</p>
                 </footer>
             </main>
         </div>

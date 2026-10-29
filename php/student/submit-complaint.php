@@ -194,7 +194,7 @@ $conn->close();
                         <input type="text" value=<?php echo htmlspecialchars($department) ?> readonly name='department'>
 
                         <label>Matricule</label>
-                        <input type="text" value="2012/1/42536CT" readonly name="matricule">
+                        <input type="text" value="24-ETD-019" readonly name="matricule">
 
                         <label>Student Email</label>
                         <input type="email" value=<?php echo htmlspecialchars($email) ?> readonly name='email'>
@@ -219,7 +219,7 @@ $conn->close();
                     </div>
                 </form>
                 <footer class='complaint-footer'>
-                    <p>Copyright &copy; 2018 <span class="bold">Final Year Project</span>. All rights reserved.</p>
+                    <p>Copyright &copy; 2025<span class="bold">Final Year Project</span>. All rights reserved.</p>
                 </footer>
             </main>
         </div>

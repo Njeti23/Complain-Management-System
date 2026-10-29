@@ -40,7 +40,7 @@
         <div class='w-full mt-2' >
             <p> Role </p>
             <select class='level w-full border p-2 rounded' name='role' >
-                <option> Admin </option>
+            <option> Admin </option>
                 <option> Student </option>
             </select>
         </div>

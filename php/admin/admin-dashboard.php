@@ -201,7 +201,7 @@
                 </div>      
             </div>
             <footer class="footer">
-                <p>Copyright &copy; 2018 <span class="bold">Final Year Project</span>. All rights reserved.</p>
+                <p>Copyright &copy; 2025 <span class="bold">Final Year Project</span>. All rights reserved.</p>
             </footer>
         </main>
     </div>
